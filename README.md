@@ -7,6 +7,8 @@ npm install
 
 #technologia vue cli
 
+(https://armun4.github.io/Wheel-Of-Doom/ "Aqui")
+
 # <a src="https://hacestareaaqui.netlify.app/">Link</a>
 ```
 

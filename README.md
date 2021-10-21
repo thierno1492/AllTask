@@ -27,4 +27,4 @@ npm run lint
 ```
 
 ### Production
-Demo [Configuration Reference](https://hacestareaaqui.netlify.app/).
+Demo [production task tarea](https://hacestareaaqui.netlify.app/).
